@@ -1,0 +1,18 @@
+{
+  "version": "1.1.0",
+  "updated": "2026-08-20",
+  "note": "Drop additional pack files in this folder and list them here. The app checks this file at startup and downloads anything it does not already have.",
+  "packs": [
+    {
+      "id": "math-extra-01",
+      "name": "Extra Math drills \u2014 pack 1",
+      "version": "c7d85fa4",
+      "file": "math-extra-01.json",
+      "questions": 260,
+      "gridIns": 49,
+      "sections": [
+        "math"
+      ]
+    }
+  ]
+}
